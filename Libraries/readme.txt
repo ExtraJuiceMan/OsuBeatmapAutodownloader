@@ -1,0 +1,1 @@
+Add the osu!.exe executable here and reference it from the project to compile
